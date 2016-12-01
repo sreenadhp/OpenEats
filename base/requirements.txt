@@ -11,11 +11,10 @@ six==1.10.0
 django-filter==0.15.0
 django-extensions==1.7.2
 Pillow==2.7.0
-
+bs4==0.0.1
 
 # Will need these once I start supporting metric mesurments
 sympy==0.7.6.1
 measurement==1.8.0
 # Will neeed to add comments for this
 # https://github.com/coddingtonbear/django-measurement
-
